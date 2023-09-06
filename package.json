@@ -26,7 +26,8 @@
     "extends @edx/browserslist-config"
   ],
   "dependencies": {
-    "bootstrap": "4.6.2"
+    "bootstrap": "4.6.2",
+    "tiny-warning": "file:tiny-warning-1.0.3.tgz"
   },
   "devDependencies": {
     "@edx/browserslist-config": "^1.1.1",
