@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/edx-bootstrap/static/css/main.0bf36447.css",
+    "main.js": "/edx-bootstrap/static/js/main.01a7ae56.js",
+    "index.html": "/edx-bootstrap/index.html",
+    "main.0bf36447.css.map": "/edx-bootstrap/static/css/main.0bf36447.css.map",
+    "main.01a7ae56.js.map": "/edx-bootstrap/static/js/main.01a7ae56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bf36447.css",
+    "static/js/main.01a7ae56.js"
+  ]
+}
